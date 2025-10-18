@@ -71,8 +71,3 @@ The model successfully segments customers into 5 distinct groups:
 - Low income, high spending
 - Low income, low spending
 
-## 📝 License
-This project is open source and available under the MIT License.
-
-## 👤 Author
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
